@@ -1,5 +1,5 @@
 <?php
-namespace kilyakus\widgets\recaptcha;
+namespace kilyakus\recaptcha;
 
 use Yii;
 use yii\base\InvalidConfigException;
